@@ -17,3 +17,35 @@ Wykrywanie i obsługa zderzeń metodą impulsową w silnikach fizycznych dla gie
 about GJK and more, get Gino van den Bergen's book 'Collision Detection in Interactive 3D Environments'. Christer Ericson also discusses it in his new book.
 
 https://www.redblobgames.com/ 
+
+-------------------------------------------------------------------
+
+
+GamesWithGabe
+42,7 tys. subskrybentów
+Join the Discord: https://discord.gg/4tHeAkxNg7
+
+In this devlog, I go over the process of me starting to create a physics engine. My engine is loosely based on Ian Millington's Game Engine Physics Development book, but it is likely to diverge farther from that in the near future. In this video I got collision detection, collision resolution, and linear impulse resolution working. The angular impulse resolution still needs some work to be more accurate, but it is almost there. This is part of my dungeon crawler devlogs, and is currently coded in Java using LWJGL3.
+
+Source Code: https://github.com/ambrosiogabe/Cocoa
+
+---------------------------------------------------------------------
+Website: https://ambrosiogabe.github.io/
+Github: https://github.com/ambrosiogabe
+
+Here are some books I recommend if you want to learn about game engine development more thoroughly. I do not profit off any of these sales, these are just some books that have helped me out :)
+
+My Recommended Game Engine Books:
+Game Engine Architecture: https://www.gameenginebook.com/
+Game Physics Cookbook (Read this before the next physics book): https://www.amazon.com/Game-Physics-C...
+Game Physics (Ian Millington): https://www.amazon.com/Game-Physics-E...
+Game Programming Patterns (Free): https://gameprogrammingpatterns.com/
+
+My Recommended Beginning Game Programming Books:
+JavaScript Game Design: https://www.apress.com/gp/book/978143...
+
+My Recommended Java Books:
+Data Structures/Algorithms: https://www.amazon.com/Data-Structure...
+LWJGL (Free, but I haven't read this thoroughly): https://lwjglgamedev.gitbooks.io/3d-g...
+
+Outro Music: https://www.bensound.com/royalty-free...
